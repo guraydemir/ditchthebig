@@ -1,5 +1,5 @@
 # ditchthebig
-curating bash scripts helping to root different android phone models
+curating bash scripts helping to unlock and root different android phone models
 
 # #theLastChallenge
 Currently hosted in https://ditchthebig.tech there is a challenge I am trying to encourage non-techie people to use human-friendly technology.
