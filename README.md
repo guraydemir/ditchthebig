@@ -9,6 +9,6 @@ installing lineageOS on android phones.
 
 I am planning to reduce the confusion try to not baffle people with terminal code. 
 
-I hope I can cover lots models as possible.
+I hope I can cover as many models as possible.
 
-Thanks for checking in the repository and all the contributions. 
+Thanks for checking in and all the contributions. 
