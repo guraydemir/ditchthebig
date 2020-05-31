@@ -7,7 +7,7 @@ Currently hosted in https://ditchthebig.tech there is a challenge I am trying to
 I did first stage about installing Linux to Windows and Mac PC's. So, this repository is for second stage and is about
 installing lineageOS on android phones. 
 
-I am planning to reduce the confusion try to not baffle people with terminal code. 
+I am planning to reduce the confusion trying to not baffle people with terminal code. 
 
 I hope I can cover as many models as possible.
 
